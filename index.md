@@ -11,6 +11,8 @@ header:
       url: "/projects/"
     - label: "See Publications"
       url: "/publications/"
+    - label: "Download CV"
+      url: "/assets/files/CV_DwaipayanChatterjee.pdf"
 excerpt: >
   Scientist at KIT | AI for Clouds, Climate, and Earth  
   Deep learning • Satellite observations • Diffusion models
