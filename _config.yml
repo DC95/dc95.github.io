@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Dwaipayan Chatterjee"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Scientist at KIT, working at the intersection of AI and Earth system science."
+  bio    : "Scientist at KIT’s Institute for Meteorology and Climate Research, exploring how deep learning can reveal and represent the complex dynamics of our planet."
   location : "Germany"
   links:
     - label: "Website"
