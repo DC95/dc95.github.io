@@ -112,3 +112,15 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+# Optional homepage blocks
+feature_row:
+  - image_path: /assets/images/kitcube.png
+    title: "KITcube: Atmospheric Observatory"
+    url: "/projects/"
+    excerpt: "Cloud profiling using Doppler lidar, radar, and radiosondes."
+
+  - image_path: /assets/images/ai_satellite.png
+    title: "AI for Satellite Observations"
+    url: "/publications/"
+    excerpt: "Self-supervised learning for low-level cloud dynamics and solar applications."
