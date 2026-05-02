@@ -14,8 +14,8 @@ header:
     - label: "Download CV"
       url: "/assets/files/CV_DwaipayanChatterjee.pdf"
 excerpt: >
-  Scientist at KIT | AI for Clouds, Climate, and Earth  
-  Deep learning • Satellite observations • Diffusion models
+  Scientist at KIT’s Institute for Meteorology and Climate Research  
+  Exploring how deep learning can reveal and represent the complex dynamics of our planet
 ---
 
 {% include feature_row id="intro" type="center" %}
