@@ -52,13 +52,24 @@ More broadly, my goal is to bridge the gap between **predictive skill and scient
     Learning representations of geostationary satellite imagery to identify low-level cloud systems and quantify their impact on solar energy variability.
     </p>
 
-    <img src="/assets/images/Energy_and_AI_cover_pic.png" style="width: 100%; max-width: 500px;">
+    <!-- Clickable Image -->
+    <a href="https://doi.org/10.1088/3049-4753/ae4e30" target="_blank">
+      <img src="/assets/images/Energy_and_AI_cover_pic.png" style="width: 100%; max-width: 500px;">
+    </a>
 
+    <!-- Caption -->
     <p style="font-size: 0.9em; color: #666;">
     Framework linking cloud organization to solar energy ramp events.
     </p>
-  </div>
 
+    <!-- Button -->
+    <p>
+      <a href="https://doi.org/10.1088/3049-4753/ae4e30" target="_blank" 
+         style="display: inline-block; padding: 8px 14px; border: 1px solid #333; border-radius: 5px; text-decoration: none;">
+         Read Paper (DOI)
+      </a>
+    </p>
+  </div>
 </div>
 ## Research Themes
 
