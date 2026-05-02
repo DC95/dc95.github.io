@@ -19,9 +19,11 @@ excerpt: >
 
 ## Research Focus
 
-I work at the intersection of **machine learning and Earth system science**, developing data-driven models to better understand cloud organization, atmospheric dynamics, and multiscale physical processes.
+I am a scientist at the Karlsruhe Institute of Technology (KIT), working at the intersection of **artificial intelligence and Earth system science**. I also serve as Scientific Coordinator for the ECMWF Machine Learning Training Program under the DestinE initiative, contributing to international efforts in AI-driven Earth system modeling.
 
-My research explores how **representation learning and generative models** can uncover structure in complex geophysical systems and improve the physical consistency of AI-based prediction models.
+My research focuses on developing **physically consistent and interpretable AI models** to better understand atmospheric processes across scales. In particular, I work on **representation learning and generative modeling** using satellite observations and km-scale numerical simulations.
+
+More broadly, my goal is to bridge the gap between **predictive skill and scientific understanding**, enabling trustworthy AI for weather forecasting and climate-scale applications.
 
 ## Featured Research
 
