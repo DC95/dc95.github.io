@@ -1,1 +1,24 @@
+---
+---
 
+@import "minimal-mistakes";
+
+.page__hero--overlay .wrapper {
+  position: relative;
+  padding-left: 180px;
+}
+
+.page__hero--overlay .wrapper::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 35px;
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  background-image: url("/assets/images/DC_pic_park.png");
+  background-size: cover;
+  background-position: center;
+  border: 3px solid white;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.45);
+}
