@@ -58,5 +58,30 @@ My research explores how **representation learning and generative models** can u
   </div>
 
 </div>
+## Research Themes
 
+<div style="display: flex; gap: 25px; align-items: stretch; flex-wrap: wrap; margin-top: 20px;">
+
+  <div style="flex: 1; min-width: 260px; border: 1px solid #e5e5e5; padding: 20px; border-radius: 8px;">
+    <h3>Representation Learning for Cloud systems</h3>
+    <p>
+    Learning compact representations of satellite observations to study cloud regimes, transitions, maturity, and diurnal variability.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 260px; border: 1px solid #e5e5e5; padding: 20px; border-radius: 8px;">
+    <h3>AI for Physical Understanding</h3>
+    <p>
+    Using deep learning not only for prediction, but also as a tool to uncover structure in complex atmospheric systems.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 260px; border: 1px solid #e5e5e5; padding: 20px; border-radius: 8px;">
+    <h3>Generative Models for Earth Systems</h3>
+    <p>
+    Developing probabilistic and generative models to connect satellite observations, radar measurements, and physical processes.
+    </p>
+  </div>
+
+</div>
 
