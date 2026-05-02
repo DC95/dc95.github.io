@@ -25,19 +25,38 @@ My research explores how **representation learning and generative models** can u
 
 ## Featured Research
 
-### Ongoing Work: AI-based Analysis of Cloud Evolution
+<div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
 
-<video width="100%" controls>
-  <source src="/assets/videos/Chatterjee_ECMWF_ESA_45s.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  <!-- LEFT: VIDEO -->
+  <div style="flex: 1; min-width: 300px;">
+    <h3>Ongoing Work</h3>
+    <p>
+    Evaluating convection in km-scale numerical models against satellite observations through a shared latent representation.
+    </p>
 
-This animation highlights ongoing work on evaluating km-scale numerical models against satellite observations to study the evolution of cloud systems in space and time.
+    <video style="width: 100%; max-width: 500px;" controls>
+      <source src="/assets/videos/Chatterjee_ECMWF_ESA_45s.mp4" type="video/mp4">
+    </video>
 
----
+    <p style="font-size: 0.9em; color: #666;">
+    Latent-space evolution of cloud systems derived from satellite observations and ICON and IFS simulations.
+    </p>
+  </div>
 
-### Recently Published Work
+  <!-- RIGHT: IMAGE -->
+  <div style="flex: 1; min-width: 300px;">
+    <h3>Recent Publication</h3>
+    <p>
+    Learning representations of geostationary satellite imagery to identify low-level cloud systems and quantify their impact on solar energy variability.
+    </p>
 
-![Research schematic](/assets/images/Energy_and_AI_cover_pic.png)
+    <img src="/assets/images/Energy_and_AI_cover_pic.png" style="width: 100%; max-width: 500px;">
 
-This schematic summarizes our recent work on using learned representations to better understand low-level cloud systems and their impact on solar energy ramp rates.
+    <p style="font-size: 0.9em; color: #666;">
+    Framework linking cloud organization to solar energy ramp events.
+    </p>
+  </div>
+
+</div>
+
+
