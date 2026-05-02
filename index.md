@@ -32,7 +32,7 @@ More broadly, my goal is to bridge the gap between **predictive skill and scient
 <div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
 
   <!-- LEFT: VIDEO -->
-  <div style="width: 100%; max-width: 450px;">
+  <div style="width: 100%; max-width: 500px;">
     <h3>Ongoing Work</h3>
     <p>
     Evaluating convection in km-scale numerical models against satellite observations through a shared latent representation.
@@ -48,7 +48,7 @@ More broadly, my goal is to bridge the gap between **predictive skill and scient
   </div>
 
   <!-- RIGHT: IMAGE -->
-  <div style="width: 100%; max-width: 450px;">
+  <div style="width: 100%; max-width: 500px;">
     <h3>Recent Publication</h3>
     <p>
     Learning representations of geostationary satellite imagery to identify low-level cloud systems and quantify their impact on solar energy variability.
@@ -64,7 +64,11 @@ More broadly, my goal is to bridge the gap between **predictive skill and scient
     Framework linking cloud organization to solar energy ramp events.
     </p>
 
-    [Read Paper (DOI)](https://doi.org/10.1088/3049-4753/ae4e30){: .btn .btn--primary target="_blank"}
+    <p>
+      <a href="https://doi.org/10.1088/3049-4753/ae4e30" target="_blank" class="btn btn--primary">
+        Read Paper (DOI)
+      </a>
+    </p>
   </div>
 </div>
 
