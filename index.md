@@ -31,10 +31,8 @@ More broadly, my goal is to bridge the gap between **predictive skill and scient
 - **ECMWF–ESA Workshop** — Presented work on evaluating km-scale numerical models against satellite observations.  
   [Slides](https://events.ecmwf.int/event/488/contributions/5664/attachments/3628/6161/ECMWF-ESA-WS_Chatterjee%20V2.pdf) · 
   [Recorded Talk](https://vimeo.com/1183710808/e33a2915fd)
-
 - **April 2026** — Appointed to a permanent Machine Learning Scientist position at the Swedish Meteorological and Hydrological Institute (SMHI), starting September 2026.
-
-- **2026** — Scientific Coordinator for the ECMWF Machine Learning Training Program under the DestinE initiative.
+- **September 2025** — Scientific Coordinator for the ECMWF Machine Learning Training Program under the DestinE initiative.
 
 ## Featured Research
 
