@@ -1,8 +1,12 @@
 ---
 ---
 
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
+/* Homepage hero profile image */
 .page__hero--overlay .wrapper {
   position: relative;
   padding-left: 180px;
@@ -23,6 +27,7 @@
   box-shadow: 0 4px 16px rgba(0,0,0,0.45);
 }
 
+/* Keep hero subtitle on one line */
 .page__hero--overlay .page__lead {
   max-width: 100%;
   white-space: nowrap;
