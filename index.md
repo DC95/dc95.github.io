@@ -17,4 +17,8 @@ excerpt: >
   Scientist at KIT’s Institute for Meteorology and Climate Research | Exploring how deep learning can reveal and represent the complex dynamics of our planet
 ---
 
-{% include feature_row id="intro" type="center" %}
+## Research Focus
+
+I work at the intersection of **machine learning and Earth system science**, developing data-driven models to better understand cloud organization, atmospheric dynamics, and multiscale physical processes.
+
+My research explores how **representation learning and generative models** can uncover structure in complex geophysical systems and improve the physical consistency of AI-based prediction models.
