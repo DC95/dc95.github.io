@@ -14,7 +14,7 @@ header:
     - label: "Download CV"
       url: "/assets/files/CV_DwaipayanChatterjee.pdf"
 excerpt: >
-  Exploring how deep learning can reveal and represent the complex dynamics of our planet
+  AI for understanding the multiscale dynamics of the Earth system
 ---
 
 ## Research Focus
@@ -25,12 +25,14 @@ My research focuses on developing **physically consistent and interpretable AI m
 
 More broadly, my goal is to bridge the gap between **predictive skill and scientific understanding**, enabling trustworthy AI for weather forecasting and climate-scale applications.
 
+---
+
 ## Featured Research
 
 <div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
 
   <!-- LEFT: VIDEO -->
-  <div style="flex: 1; min-width: 300px;">
+  <div style="width: 100%; max-width: 450px;">
     <h3>Ongoing Work</h3>
     <p>
     Evaluating convection in km-scale numerical models against satellite observations through a shared latent representation.
@@ -41,12 +43,12 @@ More broadly, my goal is to bridge the gap between **predictive skill and scient
     </video>
 
     <p style="font-size: 0.9em; color: #666;">
-    Latent-space evolution of cloud systems derived from satellite observations and ICON and IFS simulations.
+    Latent-space evolution of cloud systems from satellite observations and numerical simulations (ICON, IFS).
     </p>
   </div>
 
   <!-- RIGHT: IMAGE -->
-  <div style="flex: 1; min-width: 300px;">
+  <div style="width: 100%; max-width: 450px;">
     <h3>Recent Publication</h3>
     <p>
     Learning representations of geostationary satellite imagery to identify low-level cloud systems and quantify their impact on solar energy variability.
@@ -62,15 +64,16 @@ More broadly, my goal is to bridge the gap between **predictive skill and scient
     Framework linking cloud organization to solar energy ramp events.
     </p>
 
-    <!-- Button -->
-    <p>
-      <a href="https://doi.org/10.1088/3049-4753/ae4e30" target="_blank" 
-         style="display: inline-block; padding: 8px 14px; border: 1px solid #333; border-radius: 5px; text-decoration: none;">
-         Read Paper (DOI)
-      </a>
-    </p>
+    [Read Paper (DOI)](https://doi.org/10.1088/3049-4753/ae4e30){: .btn .btn--primary target="_blank"}
   </div>
 </div>
+
+## Current Work
+
+- Evaluating km-scale numerical models in latent representation space  
+- Developing conditional diffusion models for satellite–radar mapping  
+- Studying cloud regime transitions and multiscale dynamics
+
 ## Research Themes
 
 <div style="display: flex; gap: 25px; align-items: stretch; flex-wrap: wrap; margin-top: 20px;">
