@@ -24,8 +24,6 @@ My research focuses on developing **physically consistent and interpretable AI m
 
 More broadly, my goal is to bridge the gap between **predictive skill and scientific understanding**, enabling trustworthy AI for weather forecasting and climate-scale applications.
 
----
-
 ## News & Updates
 
 - **ECMWF–ESA Workshop** — Presented work on evaluating km-scale numerical models against satellite observations.  
