@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header.jpg  # Add one later or comment
+  overlay_image: /assets/images/website_image_1.png
   actions:
     - label: "View Projects"
       url: "/projects/"
@@ -17,6 +17,13 @@ excerpt: >
   AI for understanding the multiscale dynamics of the Earth system
 ---
 
+<!-- PROFILE BLOCK (must be outside YAML) -->
+<div style="display: flex; align-items: center; gap: 25px; margin-top: -40px;">
+
+  <img src="/assets/images/DC_pic_park.png" 
+       style="width: 120px; border-radius: 50%; border: 3px solid white;">
+
+</div>
 ## Research Focus
 
 I am a scientist at the Karlsruhe Institute of Technology (KIT), working at the intersection of **artificial intelligence and Earth system science**. I also serve as Scientific Coordinator for the ECMWF Machine Learning Training Program under the DestinE initiative, contributing to international efforts in AI-driven Earth system modeling.
