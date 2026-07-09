@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Reflections from the Panel: The Future of Earth System Modeling in the Era of AI"
-date: 2026-07-09
+date: 2026-03-31
 categories:
   - Blog
 tags:
