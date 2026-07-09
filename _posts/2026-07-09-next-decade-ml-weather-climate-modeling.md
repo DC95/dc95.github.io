@@ -11,7 +11,7 @@ tags:
   - Climate Modeling
   - Earth System Modeling
 excerpt: "A panel reflection on how machine learning may reshape weather and climate modeling over the next decade — from foundation models and AI-ready data ecosystems to scientific discovery, trust, and the changing role of researchers."
-author_profile: false
+author_profile: true
 ---
 
 As part of the Machine Learning for Earth System Modeling training course, I had the pleasure of moderating a panel discussion on “What Might We Expect Over the Next Decade for Machine Learning in Weather and Climate Modeling?” The discussion brought together perspectives from ECMWF, Predictia, the University of Lausanne, and KIT, with contributions spanning data-driven forecasting, climate emulation, Earth system modeling, high-performance computing, data infrastructure, and university research.
