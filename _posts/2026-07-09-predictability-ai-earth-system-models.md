@@ -12,7 +12,7 @@ tags:
   - Predictability
   - Uncertainty
 excerpt: "A podcast reflection on predictability in AI-based Earth system models — from deterministic chaos and ensemble forecasting to the butterfly effect, uncertainty growth, and the limits of current AI weather models."
-author_profile: false
+author_profile: true
 ---
 
 As part of the Machine Learning for Earth System Modeling training series, I had the pleasure of recording a podcast with Tobias Selz from the Karlsruhe Institute of Technology on “Predictability for AI-Based Earth System Models.” The conversation focused on one of the most fundamental questions in weather and climate science: what makes the atmosphere predictable, what limits that predictability, and how well current AI-based weather models represent uncertainty growth.
