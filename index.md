@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/website_image_1.png
+  overlay_image: /assets/images/vis_webpage_1.png
   actions:
     - label: "Download CV"
       url: "/assets/files/CV_DwaipayanChatterjee.pdf"
