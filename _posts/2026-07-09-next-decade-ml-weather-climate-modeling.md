@@ -1,5 +1,5 @@
 ---
-layout: double
+layout: single
 title: "What Might We Expect Over the Next Decade for Machine Learning in Weather and Climate Modeling?"
 date: 2026-03-27
 categories:
