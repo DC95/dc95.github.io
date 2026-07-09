@@ -17,17 +17,17 @@
 
 .page__hero--overlay .wrapper {
   text-align: center;
-  max-width: 1100px;
+  max-width: 1250px;
   padding-left: 1em;
   padding-right: 1em;
 }
 
-/* Main name */
 .page__hero--overlay .page__title {
-  font-size: clamp(3rem, 6vw, 5.4rem);
+  font-size: clamp(2.6rem, 4.6vw, 4.3rem);
   font-weight: 700;
+  line-height: 1.08;
   letter-spacing: 0.01em;
-  margin-bottom: 0.35em;
+  margin-bottom: 0.45em;
   color: #ffffff;
   text-shadow: 0 4px 24px rgba(0, 0, 0, 0.65);
 }
