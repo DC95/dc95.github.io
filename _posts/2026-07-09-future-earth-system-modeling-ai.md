@@ -1,19 +1,16 @@
 ---
-
 layout: single
 title: "Reflections from the Panel: The Future of Earth System Modeling in the Era of AI"
 date: 2026-07-09
 categories:
-
-* Blog
-  tags:
-* Artificial Intelligence
-* Earth System Modeling
-* Machine Learning
-* Weather and Climate
-  excerpt: "A panel reflection on how AI is reshaping Earth system modeling — from forecast skill and computational efficiency to physical consistency, scientific discovery, and trust across weather and climate timescales."
-  author_profile: true
-
+  - Blog
+tags:
+  - Artificial Intelligence
+  - Earth System Modeling
+  - Machine Learning
+  - Weather and Climate
+excerpt: "A panel reflection on how AI is reshaping Earth system modeling — from forecast skill and computational efficiency to physical consistency, scientific discovery, and trust across weather and climate timescales."
+author_profile: true
 ---
 
 As part of the *Machine Learning for Earth System Modeling* training course, I had the pleasure of moderating a panel discussion on **“The Future of Earth System Modeling in the Era of Artificial Intelligence.”** The discussion brought together perspectives from ECMWF, Forschungszentrum Jülich, the University of Oxford, and KNMI, spanning machine learning, numerical modeling, climate physics, ocean modeling, and operational forecasting.
