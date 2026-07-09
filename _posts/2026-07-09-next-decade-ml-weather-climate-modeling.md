@@ -3,14 +3,13 @@ layout: double
 title: "What Might We Expect Over the Next Decade for Machine Learning in Weather and Climate Modeling?"
 date: 2026-03-27
 categories:
-
-Blog
+  - Blog
 tags:
-Artificial Intelligence
-Machine Learning
-Weather Forecasting
-Climate Modeling
-Earth System Modeling
+  - Artificial Intelligence
+  - Machine Learning
+  - Weather Forecasting
+  - Climate Modeling
+  - Earth System Modeling
 excerpt: "A panel reflection on how machine learning may reshape weather and climate modeling over the next decade — from foundation models and AI-ready data ecosystems to scientific discovery, trust, and the changing role of researchers."
 author_profile: false
 ---
