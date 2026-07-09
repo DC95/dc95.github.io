@@ -3,14 +3,13 @@ layout: single
 title: "Towards Regional High-Resolution Weather Forecasting with Machine Learning"
 date: 2026-07-03
 categories:
-
-Blog
+  - Blog
 tags:
-Artificial Intelligence
-Machine Learning
-Weather Forecasting
-Regional Modeling
-High-Resolution Forecasting
+  - Artificial Intelligence
+  - Machine Learning
+  - Weather Forecasting
+  - Regional Modeling
+  - High-Resolution Forecasting
 excerpt: "A panel reflection on regional machine-learning weather forecasting — from limited-area and stretched-grid models to probabilistic prediction, operational trust, and locally deployable forecasting systems."
 author_profile: false
 ---
