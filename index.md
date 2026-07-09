@@ -7,8 +7,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/website_image_1.png
   actions:
-    - label: "See Publications"
-      url: "/publications/"
     - label: "Download CV"
       url: "/assets/files/CV_DwaipayanChatterjee.pdf"
 excerpt: >
