@@ -11,7 +11,7 @@ tags:
   - Trust
   - Verification
 excerpt: "A podcast reflection on how AI is changing operational weather forecasting — from trustworthy AI workflows and human-in-the-loop systems to verification, data assimilation, and the evolving role of meteorological expertise."
-author_profile: false
+author_profile: true
 ---
 
 As part of the Machine Learning for Earth System Modeling training series, I had the pleasure of recording a podcast with Stefanie Hollborn from the German Weather Service, Deutscher Wetterdienst (DWD), on “Trust, Transparency, and the Changing Skill of Forecasting in the Age of AI.” The conversation focused on how a national meteorological service can adopt AI not only as a research tool, but as part of operational forecasting, service delivery, verification, and organizational change.
