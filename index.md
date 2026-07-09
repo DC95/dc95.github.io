@@ -10,7 +10,9 @@ header:
     - label: "Download CV"
       url: "/assets/files/CV_DwaipayanChatterjee.pdf"
 excerpt: >
-  AI for understanding the multiscale dynamics of the Earth system
+  Machine Learning for Earth System Science  
+  <br>
+  AI for understanding and predicting the multiscale dynamics of the Earth system
 ---
 ## Research Focus
 
