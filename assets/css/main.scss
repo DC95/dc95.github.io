@@ -6,29 +6,109 @@
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
-/* Homepage hero profile image */
-.page__hero--overlay .wrapper {
-  position: relative;
-  padding-left: 180px;
-}
-
-.page__hero--overlay .wrapper::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 35px;
-  width: 125px;
-  height: 125px;
-  border-radius: 50%;
-  background-image: url("/assets/images/DC_pic_park.png");
+/* Homepage hero */
+.page__hero--overlay {
+  min-height: 620px;
+  display: flex;
+  align-items: center;
+  background-position: center center;
   background-size: cover;
-  background-position: center;
-  border: 3px solid white;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.45);
 }
 
-/* Keep hero subtitle on one line */
+.page__hero--overlay .wrapper {
+  text-align: center;
+  max-width: 1100px;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+/* Main name */
+.page__hero--overlay .page__title {
+  font-size: clamp(3rem, 6vw, 5.4rem);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  margin-bottom: 0.35em;
+  color: #ffffff;
+  text-shadow: 0 4px 24px rgba(0, 0, 0, 0.65);
+}
+
+/* Override old subtitle behavior */
 .page__hero--overlay .page__lead {
   max-width: 100%;
-  white-space: nowrap;
+  white-space: normal;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Hero subtitle */
+.hero-subtitle {
+  display: block;
+  font-size: clamp(1.25rem, 2.6vw, 2.2rem);
+  letter-spacing: 0.18em;
+  color: #ffffff;
+  margin-top: 0.2rem;
+  text-shadow: 0 3px 18px rgba(0, 0, 0, 0.65);
+}
+
+/* Cyan divider */
+.hero-divider {
+  display: block;
+  width: 90px;
+  height: 3px;
+  margin: 1.05rem auto 1.25rem auto;
+  background: #26c6f9;
+  border-radius: 999px;
+  box-shadow: 0 0 14px rgba(38, 198, 249, 0.8);
+}
+
+/* Tagline */
+.hero-tagline {
+  display: block;
+  font-size: clamp(1rem, 1.75vw, 1.45rem);
+  font-style: italic;
+  line-height: 1.45;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 1.7rem;
+  text-shadow: 0 3px 18px rgba(0, 0, 0, 0.65);
+}
+
+/* Download CV button */
+.page__hero--overlay .btn--hero-cv {
+  background: rgba(5, 20, 35, 0.45) !important;
+  border: 2px solid #26c6f9 !important;
+  color: #ffffff !important;
+  border-radius: 12px;
+  padding: 0.9rem 2.1rem;
+  font-size: 1.05rem;
+  box-shadow:
+    0 0 18px rgba(38, 198, 249, 0.35),
+    inset 0 0 12px rgba(38, 198, 249, 0.12);
+  text-shadow: none;
+}
+
+.page__hero--overlay .btn--hero-cv:hover {
+  background: rgba(38, 198, 249, 0.16) !important;
+  border-color: #57d9ff !important;
+  color: #ffffff !important;
+}
+
+/* Mobile refinement */
+@media (max-width: 768px) {
+  .page__hero--overlay {
+    min-height: 560px;
+    background-position: center center;
+  }
+
+  .page__hero--overlay .page__title {
+    font-size: clamp(2.3rem, 11vw, 3.4rem);
+  }
+
+  .hero-subtitle {
+    font-size: 1.1rem;
+    letter-spacing: 0.08em;
+  }
+
+  .hero-tagline {
+    font-size: 1rem;
+  }
 }
