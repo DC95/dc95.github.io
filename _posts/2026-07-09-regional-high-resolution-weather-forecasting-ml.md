@@ -11,7 +11,7 @@ tags:
   - Regional Modeling
   - High-Resolution Forecasting
 excerpt: "A panel reflection on regional machine-learning weather forecasting — from limited-area and stretched-grid models to probabilistic prediction, operational trust, and locally deployable forecasting systems."
-author_profile: false
+author_profile: true
 ---
 
 As part of the Machine Learning for Earth System Modeling training course, I had the pleasure of moderating a panel discussion on “Towards Regional High-Resolution Weather Forecasting with Machine Learning.” The discussion brought together experts from Met Norway, ETH Zürich, DWD, the Finnish Meteorological Institute, and ECMWF, spanning regional AI forecasting, limited-area modeling, stretched-grid approaches, operational forecasting, and deployable AI-based forecast systems.
