@@ -2,17 +2,20 @@
 layout: splash
 title: "Dwaipayan Chatterjee"
 permalink: /
+
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/vis_webpage_1.png
+  overlay_filter: "0.45"
+  overlay_image: /assets/images/vis_webpage_2.png
   actions:
     - label: "Download CV"
       url: "/assets/files/CV_DwaipayanChatterjee.pdf"
+      btn_class: "btn--hero-cv"
+
 excerpt: >
-  Machine Learning for Earth System Science  
-  <br>
-  AI for understanding and predicting the multiscale dynamics of the Earth system
+  <span class="hero-subtitle">Machine Learning for Earth System Science</span>
+  <span class="hero-divider"></span>
+  <span class="hero-tagline">AI for understanding and predicting<br>the multiscale dynamics of the Earth system</span>
 ---
 ## Research Focus
 
