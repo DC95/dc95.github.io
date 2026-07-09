@@ -32,4 +32,4 @@ The future of machine learning in weather and climate modeling will likely be pl
 
 A recording of the panel discussion is available on YouTube:
 
-Watch the panel discussion
+[Watch the panel discussion](https://www.youtube.com/watch?v=pdfPN1GyeMc&list=PLwv2rZ5UPWUH9rIJn1klqvKl9VvIV_EvY&index=8)
