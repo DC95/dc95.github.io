@@ -18,17 +18,20 @@ excerpt: >
 ---
 ## Research Focus
 
-I am a scientist at the Karlsruhe Institute of Technology (KIT), working at the intersection of **artificial intelligence and Earth system science**. I also serve as Scientific Coordinator for the ECMWF Machine Learning Training Program under the DestinE initiative, contributing to international efforts in AI-driven Earth system modeling.
+I work at the intersection of **artificial intelligence and Earth system science** at KIT. I also serve as Scientific Coordinator for the ECMWF Machine Learning Training Program under the DestinE initiative, contributing to international efforts in AI-driven Earth system modeling.
 
-My research focuses on developing **physically consistent and interpretable AI models** to better understand atmospheric processes across scales. In particular, I work on **representation learning and generative modeling** using satellite observations and km-scale numerical simulations.
+My research focuses on developing **physically consistent and interpretable AI models** to better understand atmospheric processes across scales. In particular, I work on **representation learning and generative modeling** using satellite/ground-based observations and km-scale numerical simulations.
 
 More broadly, my goal is to bridge the gap between **predictive skill and scientific understanding**, enabling trustworthy AI for weather forecasting and climate-scale applications.
 
 ## News & Updates
-
+- **Research Preview** — Our latest work, *Satellite-trained latent spaces for evaluating km-scale atmospheric simulations*, introduces an observation-based framework for evaluating cloud–surface radiative evolution in numerical weather models. A research teaser will be available soon.
 - **ECMWF–ESA Workshop** — Presented work on evaluating km-scale numerical models against satellite observations.  
   [Slides](https://events.ecmwf.int/event/488/contributions/5664/attachments/3628/6161/ECMWF-ESA-WS_Chatterjee%20V2.pdf) · 
   [Recorded Talk](https://vimeo.com/1183710808/e33a2915fd)
+- **MLESM Hackathon 2026** — Contributing a challenge on AI emulators of chaotic atmospheric dynamics, exploring predictability, physical consistency, and long-term stability using the Lorenz system.  
+  [Hackathon webpage](https://www.fz-juelich.de/en/jsc/news/events/2026/hackathon-machine-learning-for-earth-system-modelling) ·
+  [Challenge description](/assets/files/Challenge_description_hackathon.pdf)
 - **April 2026** — Appointed to a permanent Machine Learning Scientist position at the Swedish Meteorological and Hydrological Institute (SMHI), starting September 2026.
 - **September 2025** — Scientific Coordinator for the ECMWF Machine Learning Training Program under the DestinE initiative.
 
