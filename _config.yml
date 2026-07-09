@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Dwaipayan Chatterjee"
   avatar : "/assets/images/DC_pic_park.png"
-  bio    : "Scientist at KIT’s Institute for Meteorology and Climate Research, exploring how deep learning can represent complex dynamics of Earth's atmosphere ."
+  bio    : "Developing physically consistent and interpretable AI to understand and represent the multiscale dynamics of Earth's atmosphere."
   location : "Germany"
   links:
     - label: "Website"
