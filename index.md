@@ -32,7 +32,7 @@ More broadly, my goal is to bridge the gap between **predictive skill and scient
 - **MLESM Hackathon 2026** — Contributing a challenge on AI emulators of chaotic atmospheric dynamics, exploring predictability, physical consistency, and long-term stability using the Lorenz system.  
   [Hackathon webpage](https://www.fz-juelich.de/en/jsc/news/events/2026/hackathon-machine-learning-for-earth-system-modelling) ·
   [Challenge description](/assets/files/Challenge_description_hackathon.pdf)
-- **April 2026** — Appointed to a permanent Machine Learning Scientist position at the Swedish Meteorological and Hydrological Institute (SMHI), starting September 2026.
+- **April 2026 🇸🇪** — Appointed to a permanent Machine Learning Scientist position at the Swedish Meteorological and Hydrological Institute (SMHI), starting September 2026.
 - **September 2025** — Scientific Coordinator for the ECMWF Machine Learning Training Program under the DestinE initiative.
 
 ## Featured Research
