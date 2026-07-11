@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/vis_webpage_2.png
   actions:
     - label: "Download CV"
-      url: "/assets/files/CV_DwaipayanChatterjee.pdf"
+      url: "/assets/files/Dc_CV_2026.pdf"
       btn_class: "btn--hero-cv"
 
 excerpt: >
