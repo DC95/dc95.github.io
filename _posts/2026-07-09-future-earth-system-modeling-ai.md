@@ -23,7 +23,7 @@ The panel also discussed whether AI models can support scientific discovery. I f
 
 Another important point was evaluation. The community needs to move beyond bulk error metrics such as RMSE and develop process-level, structure-aware, and physically informed diagnostics. This is particularly important as both kilometer-scale simulations and AI models begin to represent spatial structures directly. Clouds, storms, circulation regimes, and extremes contain rich physical information that can be lost when everything is averaged away.
 
-From my perspective as moderator, the discussion reinforced that AI is not merely a faster replacement for existing models. It is changing the questions we can ask, the data we can use, and the ways we may evaluate realism and usefulness. But it also forces us to be more explicit about trust: trust for which variable, which process, which time scale, and which application?
+From a moderator's perspective, I think the discussion reinforced that AI is not merely a faster replacement for existing models. It is changing the questions we can ask, the data we can use, and the ways we may evaluate realism and usefulness. But it also forces us to be more explicit about trust: trust for which variable, which process, which time scale, and which application?
 
 The future of Earth system modeling will probably not be defined by a single winning approach. Instead, it may involve a family of models: physics-based systems, pure AI models, hybrid models, component models, foundation models, and operational workflows where expert judgment remains essential. The challenge ahead is to make these tools not only skillful but also interpretable, physically meaningful, and scientifically useful.
 
